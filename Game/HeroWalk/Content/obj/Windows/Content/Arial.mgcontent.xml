@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>Z:/u3173445/My Documents/Game Programming/RBW/HeroWalk/HeroWalk/Content/Arial.spritefont</SourceFile>
+  <SourceTime>2019-04-01T15:29:40+11:00</SourceTime>
+  <DestFile>Z:/u3173445/My Documents/Game Programming/RBW/HeroWalk/HeroWalk/Content/bin/Windows/Content/Arial.xnb</DestFile>
+  <DestTime>2019-05-03T13:53:12.4393385+10:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2018-09-24T07:55:52+10:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2018-09-24T07:55:52+10:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

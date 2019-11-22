@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/hero-back-walk.png</File>
+    <File>C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/hero-walk-front.png</File>
+    <File>C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/hero-walk-side.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>

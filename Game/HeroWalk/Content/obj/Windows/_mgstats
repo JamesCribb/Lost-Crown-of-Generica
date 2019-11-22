@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/hero-back-walk.png","C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/bin/Windows/hero-back-walk.xnb","TextureProcessor","Texture2DContent",1298,24661,0.1197149
+"C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/hero-walk-front.png","C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/bin/Windows/hero-walk-front.xnb","TextureProcessor","Texture2DContent",1530,24661,0.0029921
+"C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/hero-walk-side.png","C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/bin/Windows/hero-walk-side.xnb","TextureProcessor","Texture2DContent",1370,24661,0.0039956

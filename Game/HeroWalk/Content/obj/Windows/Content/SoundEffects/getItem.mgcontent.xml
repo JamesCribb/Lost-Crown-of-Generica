@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/SoundEffects/getItem.wav</SourceFile>
+  <SourceTime>2015-03-10T12:27:40+11:00</SourceTime>
+  <DestFile>C:/Users/James/Documents/Semester 1 2019/Game Programming/RBW/HeroWalk/HeroWalk/Content/bin/Windows/Content/SoundEffects/getItem.xnb</DestFile>
+  <DestTime>2019-04-08T13:05:24.9121548+10:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-09T03:35:54+11:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-09T03:35:54+11:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

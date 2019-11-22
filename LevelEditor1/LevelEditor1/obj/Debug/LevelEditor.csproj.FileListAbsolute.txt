@@ -1,0 +1,34 @@
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.exe.config
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.exe
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.pdb
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.dll
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.pdb
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.xml
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csprojAssemblyReference.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.Form1.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.ImageText.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.InteractiblePanel.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.Properties.Resources.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.ZoneTriggerPanel.resources
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.GenerateResource.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.CopyComplete
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.exe
+\\Studentfiles.win.canberra.edu.au\Homes$\u3173445\My Documents\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.pdb
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.exe.config
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.exe
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.pdb
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.dll
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.pdb
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.xml
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csprojAssemblyReference.cache
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.Form1.resources
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.ImageText.resources
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.InteractiblePanel.resources
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.Properties.Resources.resources
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.ZoneTriggerPanel.resources
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.GenerateResource.cache
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.CopyComplete
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.exe
+C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.pdb

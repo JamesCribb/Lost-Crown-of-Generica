@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>Z:/u3173445/My Documents/Game Programming/RBW/HeroWalk/HeroWalk/Content/SoundEffects/houseTransition.wav</SourceFile>
+  <SourceTime>2011-03-02T19:01:38+11:00</SourceTime>
+  <DestFile>Z:/u3173445/My Documents/Game Programming/RBW/HeroWalk/HeroWalk/Content/bin/Windows/Content/SoundEffects/houseTransition.xnb</DestFile>
+  <DestTime>2019-05-03T13:53:25.7048283+10:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-09-24T07:55:52+10:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-09-24T07:55:52+10:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
