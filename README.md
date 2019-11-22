@@ -14,7 +14,7 @@ Title screen:
 
 ![title screen](Screenshots/title.png)
 
-Gameplay screen:
+Gameplay:
 
 ![gameplay screen](Screenshots/overworld.png)
 
