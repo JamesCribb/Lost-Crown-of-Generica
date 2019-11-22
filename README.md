@@ -6,6 +6,7 @@ Also included is a level editor I developed to visually define game screens, and
 # Instructions
 
 To run the game as an executable: Lost Crown of Generica --> LostCrownOfGenerica.exe
+
 To run the game through Visual Studio (will require installation of Monogame libraries): Game --> HeroWalk.sln
 
 # Screenshots
