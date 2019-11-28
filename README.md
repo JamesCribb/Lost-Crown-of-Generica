@@ -19,4 +19,6 @@ Gameplay:
 
 ![gameplay screen](Screenshots/overworld.png)
 
+Level Editor:
 
+![level editor screen](Screenshots/leveleditor.png)
