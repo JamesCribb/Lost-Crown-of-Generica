@@ -32,3 +32,20 @@ C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEdit
 C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.CopyComplete
 C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.exe
 C:\Users\James\Documents\Semester 1 2019\Game Programming\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.pdb
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.exe.config
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.exe
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\bin\Debug\LevelEditor1.pdb
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.dll
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.pdb
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\bin\Debug\Ookii.Dialogs.WinForms.xml
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csprojAssemblyReference.cache
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.Form1.resources
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.ImageText.resources
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.InteractiblePanel.resources
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.Properties.Resources.resources
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.ZoneTriggerPanel.resources
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.GenerateResource.cache
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.CoreCompileInputs.cache
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor.csproj.CopyComplete
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.exe
+E:\Semester 1 2019\Game Programming\Lost Crown of Generica\LevelEditor1\LevelEditor1\obj\Debug\LevelEditor1.pdb
